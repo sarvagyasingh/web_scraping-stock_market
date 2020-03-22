@@ -1,7 +1,5 @@
 import requests
 import lxml.html as lh
-import pandas as pd
-import numpy as np
 import time
 import sys
 import timeit
